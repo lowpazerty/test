@@ -1,0 +1,33 @@
+[09:53:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[09:53:13] [ServerMain/INFO]: Loaded 1337 recipes
+[09:53:13] [ServerMain/INFO]: Loaded 1448 advancements
+[09:53:13] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[09:53:13] [Server thread/INFO]: Loading properties
+[09:53:13] [Server thread/INFO]: Default game type: SURVIVAL
+[09:53:13] [Server thread/INFO]: Generating keypair
+[09:53:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:53:13] [Server thread/INFO]: Using epoll channel type
+[09:53:13] [Server thread/INFO]: Preparing level "world"
+[09:53:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:53:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:53:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:53:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:53:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:53:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:53:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:53:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:53:16] [Server thread/INFO]: Time elapsed: 3182 ms
+[09:53:16] [Server thread/INFO]: Done (3.458s)! For help, type "help"
+[09:53:36] [User Authenticator #1/INFO]: UUID of player BaconHairLord is df968c2c-da38-4955-a8d0-0144fa3b2af5
+[09:53:37] [Server thread/INFO]: BaconHairLord[/127.172.248.98:44797] logged in with entity id 104 at (10.5, 75.0, -3.5)
+[09:53:37] [Server thread/INFO]: BaconHairLord joined the game
+[09:53:49] [Server thread/INFO]: [BaconHairLord: Set own game mode to Creative Mode]
+[09:53:56] [Server thread/INFO]: [BaconHairLord: Set own game mode to Survival Mode]
+[09:54:05] [Server thread/INFO]: [BaconHairLord: Set own game mode to Creative Mode]
+[09:55:09] [Server thread/INFO]: Villager cpj['Leatherworker'/177, l='ServerLevel[world]', x=147.55, y=70.00, z=54.48] died, message: 'Leatherworker was slain by BaconHairLord'
+[09:56:28] [Server thread/INFO]: BaconHairLord has reached the goal [Sky's the Limit]
+[09:59:46] [Server thread/INFO]: BaconHairLord was killed
+[09:59:46] [Server thread/INFO]: [BaconHairLord: Killed BaconHairLord]
+[09:59:58] [Server thread/INFO]: BaconHairLord lost connection: Disconnected
+[09:59:58] [Server thread/INFO]: BaconHairLord left the game
+[10:00:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
